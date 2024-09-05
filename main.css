@@ -1,0 +1,22 @@
+.container{
+   
+    padding: 2rem;
+    margin-left: 20rem;
+}
+
+.container input{
+    padding: 2rem;
+    background: #000;
+    border-radius: 10px;
+    color: white;
+}
+
+
+.container button {
+
+    border-radius: 10px;
+    background: #1d1d1d;
+    color:white;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
